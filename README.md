@@ -8,5 +8,8 @@ https://www.figma.com/file/V3l3zWEuVqixPQzeWw34AI/Templates-HTML%2FCSS?node-id=0
 2) ТИПИЧНЫЙ ВЕРСТАЛЬЩИК
 https://tpverstak.ru/flex-cheatsheet/
 
-3) 
-https://tpverstak.ru/grid/
+3) https://tpverstak.ru/grid/
+
+4) normalize
+Normalize.css as a node packaged module 
+https://cdnjs.com/libraries/normalize
