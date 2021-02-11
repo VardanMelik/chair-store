@@ -7,3 +7,6 @@ https://www.figma.com/file/V3l3zWEuVqixPQzeWw34AI/Templates-HTML%2FCSS?node-id=0
 
 2) ТИПИЧНЫЙ ВЕРСТАЛЬЩИК
 https://tpverstak.ru/flex-cheatsheet/
+
+3) 
+https://tpverstak.ru/grid/
